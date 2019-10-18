@@ -1,5 +1,7 @@
 # DEX for Go
 
+[![GoDoc](https://godoc.org/github.com/squadcastHQ/dex-go/pkg/dex?status.svg)](https://godoc.org/github.com/squadcastHQ/dex-go/pkg/dex)
+
 DEX SDK is a simple middleware for HTTP routers which can record metrics like
 status code, latency and memory on request completion and send the same to the Squadcast DEX servers.
 
